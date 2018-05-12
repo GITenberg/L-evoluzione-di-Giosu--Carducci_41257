@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39262
     wikipedia: http://it.wikipedia.org/wiki/Alfredo_Panzini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41257#L-evoluzione-di-Giosu--Carducci
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2012-11-01'
 gutenberg_type: Text
